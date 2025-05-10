@@ -1,6 +1,7 @@
 # NFT Preview Card Component
 
 Este é um componente de cartão de pré-visualização de NFT (Non-Fungible Token) desenvolvido como uma solução para o desafio "NFT preview card component" do Frontend Mentor ([https://www.frontendmentor.io](https://www.frontendmentor.io)).
+![Animação](https://github.com/user-attachments/assets/8389e3bc-e47c-4b5a-95c3-dc44bd0fca32)
 
 ## Visão Geral
 
